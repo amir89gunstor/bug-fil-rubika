@@ -9,14 +9,14 @@ from colorama import Fore
 import sys
 ###########
 os.system("clear")
-print(Fore.BLUE+"""
-     ███
-      ██
-        █
-    █
-     █     █
-          █   CODID BY \033[93mamir serkhio | MR serkhio\033[93m  
-       CH.\33[1;0m https://rubika.ir/manam_miram\033[93m
+print(Fore.RED+"""
+     █████████
+     █▄█████▄█        CODID BY \033[93mAMir Serkhio | MR Serkhio\033[93m
+     █▼▼▼▼▼           CH.\33[1;0m https://rubika.ir/manam_miram\033[93m
+     █ 🔥🔥🔥🔥              WE: http://amir.com\33[1;0m
+     █▲▲▲▲▲
+     █████████
+      ██ ██""")
 soheil = """
      \033[41m[1]\33[1;0m COOD GROP
      \033[41m[2]\33[1;0m COOD USER
